@@ -2,9 +2,9 @@
 
 
 ## Step By Step:
-`git add .`
-`git commit -m "ajuste"`
-`git push`
+`git add .` <br>
+`git commit -m "ajuste"` <br>
+`git push` <br>
 
 
 ### prof Douglas Morais
